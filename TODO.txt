@@ -1,5 +1,5 @@
 - MapReduce —> Naive Bayes
 -  Apriori Algorithm 
 - EDA Phase
-- More feature analysis if we want
-- More models 
+- More feature analysis 
+- More models if we want

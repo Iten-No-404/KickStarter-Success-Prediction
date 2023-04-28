@@ -26,8 +26,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-ks-projects-201612.csv
-ks-projects-201801.csv
+*.csv
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
