@@ -1,7 +1,5 @@
 # KickStarter-Success-Prediction
 This project is all about predicting whether a start-up project will succeed before it’s released based on data collected on it from the KickStarter website and basic information about the project like the project name, country of origin, category, etc... This project is a fulfilment to the CMP4011 BD project.
-##  Brief Problem Description:
-The idea briefly is predicting whether a startup project will succeed before it’s released based on data collected on it from the KickStarter website and basic information about the project like the project name, country of origin and category. It also contains more important data such as the number of backers, the goal, and the amount of money pledged.
 ## Project Pipeline
   <p align="center">
       <img src="https://github.com/Iten-No-404/KickStarter-Success-Prediction/blob/main/images/pipeline.PNG"  class="center"></img>
