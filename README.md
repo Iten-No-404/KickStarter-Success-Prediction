@@ -31,8 +31,8 @@ This project is all about predicting whether a start-up project will succeed bef
     </p>
  *  We can see something very clear with a cursory look: Successful campaigns are quite humble. This is apparent through the goal of each category. e can see that the scale isn’t all that different. Failed campaigns for some categories seem to have more backers than their successful counterparts
   <p float="left">
-  <img src="https://github.com/Iten-No-404/KickStarter-Success-Prediction/blob/main/images/goal.PNG" width="500" />
-  <img src="https://github.com/Iten-No-404/KickStarter-Success-Prediction/blob/main/images/backers.PNG" width="500" /> 
+  <img src="https://github.com/Iten-No-404/KickStarter-Success-Prediction/blob/main/images/goal.PNG" width="400" />
+  <img src="https://github.com/Iten-No-404/KickStarter-Success-Prediction/blob/main/images/backers.PNG" width="400" /> 
 </p>
  Look at how goals and pledged amounts behave for successful campaigns. We can clearly see the humbleness of goals in action again. While the pledged amount seems to have a wild variation with a few extreme outliers.
 <p align="center">
